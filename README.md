@@ -4,6 +4,8 @@ Two Graph Neural Networks that learns (via supervised learning) to label graph n
 
 Data and examples can be found in their respective folder. You can create a conda environment with ```requirements.txt```.
 
+Made with pytorch and pytorch-geometric.
+
 ## Models
 
 ### Forward Recurrent Graph Convolutional Networks (FRGCN)
@@ -38,9 +40,9 @@ If you would like to cite this planner in an scientific publication, please use 
 
 ```bibtex
 @unpublished{vellidoGNN,
-  title={Routing Graph Neural Networks},
+  title={Heuristics Graph Neural Networks},
   author={Ignacio Vellido and Carlos N{\'u}{\~n}ez-Molina},
-  note={https://github.com/IgnacioVellido/Routing-GNN},
+  note={https://github.com/IgnacioVellido/Heuristics-GNNs},
   year={2022}
 }
 ```
